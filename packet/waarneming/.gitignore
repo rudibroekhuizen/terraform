@@ -1,4 +1,6 @@
+# .tfstate files
 *.tfstate
-*.tfstate.backup
-.*
-!.gitignore
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
